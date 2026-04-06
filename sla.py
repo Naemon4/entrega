@@ -1,4 +1,6 @@
-while !dead:
-  eat()
-  code()
+dead = False
+
+while not dead:
+    eat()
+    code()
   # sleep()
